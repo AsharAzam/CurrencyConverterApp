@@ -1,1 +1,1 @@
-Kolin + MVVM
+Currency Converter Application
